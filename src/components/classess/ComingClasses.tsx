@@ -2,7 +2,7 @@
 // components/UpcomingClasses.tsx
 import { FaChevronDown } from 'react-icons/fa'
 import Image, { StaticImageData } from 'next/image'
-import dummyImg from '../../app/assets/images/educify_pic.png'
+import dummyImg from '../../app/assets/images/Educify_pic.png'
 
 interface ClassData {
   student: string

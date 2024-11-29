@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image, { StaticImageData } from 'next/image'
 import React from 'react'
-import dummyImg from '../../app/assets/images/educify_pic.png'
+import dummyImg from '../../app/assets/images/Educify_pic.png'
 import { CiReceipt } from 'react-icons/ci'
 import { IconType } from 'react-icons'
 

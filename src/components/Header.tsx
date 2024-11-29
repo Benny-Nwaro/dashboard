@@ -5,7 +5,7 @@ import {
   QuestionMarkCircleIcon,
 } from '@heroicons/react/24/outline' // Updated Heroicons v2 import
 import Logo from '../app/assets/images/Educify-logo.png'
-import ProfilePic from '../app/assets/images/educify_pic.png'
+import ProfilePic from '../app/assets/images/Educify_pic.png'
 import { Box, IconButton, Text } from '@chakra-ui/react'
 import { HamburgerIcon } from '@chakra-ui/icons'
 

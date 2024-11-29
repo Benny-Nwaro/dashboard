@@ -3,7 +3,7 @@
 
 import Image from 'next/image'
 import React, { useState } from 'react'
-import dummyImg from '../../app/assets/images/educify_pic.png'
+import dummyImg from '../../app/assets/images/Educify_pic.png'
 import InvoiceModal from './InvoiceModal'
 import ReusableModal from './ReusableModal'
 import PaymentReviewModal from './PaymentReviewModal'

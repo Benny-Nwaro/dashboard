@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import dummyImg from '../../app/assets/images/educify_pic.png'
+import dummyImg from '../../app/assets/images/Educify_pic.png'
 import { RiVerifiedBadgeFill } from 'react-icons/ri'
 import { SlBadge, SlPaypal } from 'react-icons/sl'
 import { CiCreditCard1, CiWallet } from 'react-icons/ci'

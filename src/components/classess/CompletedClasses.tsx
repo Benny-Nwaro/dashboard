@@ -3,7 +3,7 @@
 
 import Image from 'next/image'
 import React from 'react'
-import dummyImg from '../../app/assets/images/educify_pic.png'
+import dummyImg from '../../app/assets/images/Educify_pic.png'
 
 const CompletedClasses: React.FC = () => {
   const classes = [
